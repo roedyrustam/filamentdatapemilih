@@ -64,6 +64,9 @@ php artisan serve
 -   Buka browser, akses http://127.0.0.1:8000/admin
     Done.
 
+- Login User = admin@gmail.com
+- pass = admin12345
+
 
 ## Roadmap
 
