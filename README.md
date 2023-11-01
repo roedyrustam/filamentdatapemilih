@@ -61,13 +61,9 @@ php artisan db:seed --class=FromJsonSeeder
 php artisan serve
 ```
 
--   Buka browser, akses http://127.0.0.1:8000
+-   Buka browser, akses http://127.0.0.1:8000/admin
     Done.
 
-## Dokumentasi API
-
-Master dari file dokumentasi yaml ada di folder `public/docs`.
-Untuk membuka dokumentasi API, buka http://127.0.0.1:8000/api/documentation
 
 ## Roadmap
 
