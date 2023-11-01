@@ -1,4 +1,4 @@
-# API Wilayah Indonesia
+# API Wilayah Indonesia 2024
 
 API Wilayah Indonesia adalah project open source laravel Filament untuk akses data Provinsi, Kabupaten, Kecamatan dan Kelurahan di Indonesia.
 Project ini sudah disertai dengan Dokumentasi Api menggunakan Swagger.
@@ -20,7 +20,7 @@ Data dari project ini saya dapatkan dari link github https://github.com/theodevo
 -   Clone project ini dengan cara download atau dengan command :
 
 ```bash
-git clone https://github.com/roedyrustam/laravel-api-wilayah.git
+git clone https://github.com/roedyrustam/filamentdatapemilih.git
 ```
 
 -   Masuk ke folder project dan Install dependency dengan composer
